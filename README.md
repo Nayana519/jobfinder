@@ -71,6 +71,8 @@ For Hardware:
 
 # Build Photos
 ![Team](Add photo of your team here)
+![WhatsApp Image 2025-01-26 at 11 25 22_7301e505](https://github.com/user-attachments/assets/b3489a6c-b62f-428e-879e-f9d5b4d6e91a)
+
 
 
 ![Components](Add photo of your components here)
