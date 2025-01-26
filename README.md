@@ -1,31 +1,31 @@
-# [Project Name] 🎯
+# [JOB FINDER] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [NIVANSHI]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Devika Lakshmi .M] - [College of Engineering, Chengannur]
+- Member 2: [Nilofar Fathima] - [College of Engineering, Chengannur]
+- Member 3: [Nayana J Pillai] - [College of Engineering, Chengannur]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Our project is a local job-finding platform designed to connect job seekers with full-time and part-time opportunities in nearby businesses. It allows employers to post job openings through an easy-to-use dashboard and enables job seekers to search, filter, and apply for jobs seamlessly. The platform focuses on fostering community connections and simplifying local recruitment]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[The ridiculous problem we are solving is the persistent issue of local unemployment caused by the lack of accessible platforms connecting job seekers with nearby opportunities. Small businesses struggle to find the right talent, while job seekers often overlook openings in their vicinity. Our project bridges this gap, reducing unemployment by streamlining local job discovery and recruitment]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[Our project solves local unemployment by making job hunting and hiring ridiculously easy. Job seekers can quickly find full-time or part-time opportunities right around the corner, while local businesses get a simple way to post openings and connect with the right people. It’s all about cutting out the frustration and helping our community thrive. By focusing on local connections, we’re bringing jobs closer to home and making the hiring process feel less like a chore. Together, we’re building a platform that works for everyone, one job at a time.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML, CSS, Javascript]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
