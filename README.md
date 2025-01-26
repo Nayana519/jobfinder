@@ -48,12 +48,17 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![front page](https://github.com/user-attachments/assets/b7758188-7a2c-447c-af1a-ae4d4823ed21)
+This screenshit displays the front page of our website.
 
 ![Screenshot2](Add screenshot 2 here with proper name)
+![available jobs](https://github.com/user-attachments/assets/8eaaea7b-821a-471b-85ef-3a52b6064b92)
+
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
+![search result](https://github.com/user-attachments/assets/ba05a41c-faa7-45ac-98c7-54ff5959d515)
+
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -86,7 +91,9 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
+https://github.com/user-attachments/assets/d4edc7bf-36b1-456c-ad1c-db4847f85dfa
+
 *Explain what the video demonstrates*
 
 # Additional Demos
